@@ -1,0 +1,10 @@
+* cl-qprint
+
+Implementation of the quoted-printable encoding.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eugeneia/cl-qprint.git   |
+| commit  | bfe3985  |
+| systems | cl-qprint |
+|---------+-------------------------------------------|
+
